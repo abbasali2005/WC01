@@ -1,4 +1,4 @@
-# Weekly Challenge 01: Propositional Logic
+# Weekly Challenge 01: LaTeX practice and Introduction to Logic
 # CS/MATH 113 Discrete Mathematics, Spring 2025
 ***
 
